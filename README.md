@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leahoduor/crm-marketing-assistant-agent/main/Banner.png" width="100%" />
+</p>
+# CRM/Marketing Assistant Agent
+ 
+ 
  **README.md — CRM/Marketing Assistant Agent**
 
 \# CRM/Marketing Assistant Agent    
