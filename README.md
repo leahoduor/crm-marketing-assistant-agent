@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/leahoduor/crm-marketing-assistant-agent/main/Banner.png" width="100%" />
 </p>
- **If you find this project helpful, please give the repo a star — it helps others discover it!**
+ **If you find this project helpful, please give the repository a star.It helps others discover it!**
 
 # CRM/Marketing Assistant Agent
  
